@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "base_track": "ひとひらを紡いで",
+  "base_artist": "nayuta",
+  "createdAt": "2026-03-31T06:39:05.902754Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ひとひらを紡いで",
+      "artist": "nayuta",
+      "has_synced": false,
+      "path": "select/pl_01_ひとひらを紡いで_nayuta.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "ひとひらを紡いで",
+      "artist": "nayuta",
+      "has_synced": false,
+      "path": "select/localdb_01_ひとひらを紡いで_nayuta.txt",
+      "repo_name": "kcB9xQop_4Y"
+    }
+  ]
+}
